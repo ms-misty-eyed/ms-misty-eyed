@@ -1,6 +1,6 @@
 # About Me:
 🎓 Computer Science student at Champlain College St-Lambert<br>
-🌱 I’m currently learning HTML, CSS and JavaScript
+🌱 I’m currently learning API Integrations, HTML, CSS and JavaScript
 
 
 ## Socials:
