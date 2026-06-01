@@ -1,6 +1,6 @@
 # About Me:
-🎓 Computer Science student at Champlain College St-Lambert<br>
-🌱 I’m currently learning API Integrations, HTML, CSS and JavaScript
+Computer Science student at Champlain College St-Lambert and prospective student at the University of British Columbia<br>
+I’m currently learning web design through the Odin Project
 
 
 ## Socials:
