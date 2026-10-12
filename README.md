@@ -1,5 +1,5 @@
 # About Me:
-- Prospective computer science student at the University of British Columbia<br>
+- Computer science student at the University of British Columbia<br>
 - I’m currently learning web design through the Odin Project
 
 
